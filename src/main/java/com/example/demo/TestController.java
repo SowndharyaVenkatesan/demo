@@ -11,7 +11,7 @@ public class TestController {
     @GetMapping("/tests")
     public void test() {
         String s = check();
-        System.out.println("hello world");
+        System.out.println("hello world123");
     }
 
     public String check() {
