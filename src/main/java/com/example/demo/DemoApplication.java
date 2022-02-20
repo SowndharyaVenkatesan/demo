@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello123_masterMaster1Test");
+		System.out.println("hello123_masterMaster14");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
