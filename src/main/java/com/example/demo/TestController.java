@@ -15,7 +15,7 @@ public class TestController {
     }
 
     public String check() {
-        System.out.println("check123fghh");
+        System.out.println("check123fghh_Latest");
         return "success";
     }
 
