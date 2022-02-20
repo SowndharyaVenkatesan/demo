@@ -15,13 +15,9 @@ public class TestController {
     }
 
     public String check() {
-        System.out.println("check");
+        System.out.println("check123fghh");
         return "success";
     }
 
-    @GetMapping("/latest")
-    public void test1() {
-        String s = check();
-        System.out.println("hello world");
-    }
+
 }
